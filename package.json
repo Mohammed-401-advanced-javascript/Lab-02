@@ -1,0 +1,23 @@
+{
+  "name": "Lab-02",
+  "version": "1.0.0",
+  "description": "## Project Name Classes And Inheritance",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohammed-401-advanced-javascript/Lab-02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohammed-401-advanced-javascript/Lab-02/issues"
+  },
+  "homepage": "https://github.com/Mohammed-401-advanced-javascript/Lab-02#readme"
+}
